@@ -26,11 +26,11 @@ function muestraLista() {
 
   function archivo_texto(){
     if(document.getElementById("seleccion").value=="1"){
-      return "http://localhost:50/practica3/assets/data/video.html";
+      return "assets/data/video.html";
     }else if(document.getElementById("seleccion").value=="2"){
-      return "http://localhost:50/practica3/assets/data/musica.html";
+      return "assets/data/musica.html";
     }else if(document.getElementById("seleccion").value=="3"){
-      return "http://localhost:50/practica3/assets/data/peliculas.html";
+      return "assets/data/peliculas.html";
     }
   }
 }
