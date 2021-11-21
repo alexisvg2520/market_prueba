@@ -1,0 +1,32 @@
+.btn-circle {
+    width: 30px;
+    height: 30px;
+    padding: 6px 0px;
+    border-radius: 15px;
+    text-align: center;
+    font-size: 12px;
+    line-height: 1.42857;
+}
+
+.icon{
+    position: relative;
+    top: 150%;
+    transform: translateY(-50%);
+    right: 3%;
+    text-align:center;
+     
+}
+.titulo{
+    text-align:center;
+    background-color: rgb(2, 2, 110);
+}
+
+.tabla{
+    background-color: rgb(2, 2, 110);
+}
+
+img {
+    height: 200px;
+    width: 135px;
+    box-shadow: 2px 3px 7px 0px rgba(14,21,145,0.55);
+}
