@@ -34,10 +34,6 @@ function muestraLista() {
     }
   }
 }
-//variables para productos
-/*var cod = document.getElementById(cod).textContent;
-var desc = document.getElementById(desc).textContent;
-var precio = document.getElementById(precio).textContent;*/
 
 function addProducto(cod,desc,precio){
   //Creación de objeto
